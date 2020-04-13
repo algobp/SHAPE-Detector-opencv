@@ -1,0 +1,2 @@
+# Shape--detector-opencv
+OpenCV (Open source computer vision) is a library of programming functions mainly aimed at real-time computer vision.OpenCV supports some models from deep learning frameworks like TensorFlow, Torch, PyTorch (after converting to an ONNX model) and Caffe according to a defined list of supported layers.It promotes OpenVisionCapsules, which is a portable format, compatible with all other formats
